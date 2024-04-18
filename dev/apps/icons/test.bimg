@@ -1,0 +1,48 @@
+-- 0 = white
+-- 1 = orange
+-- 2 = magenta
+-- 3 = lightblue
+-- 4 = yellow
+-- 5 = lime
+-- 6 = pink
+-- 7 = gray
+-- 8 = light gray
+-- 9 = cyan
+-- a = purple
+-- b = blue
+-- c = brown
+-- d = green
+-- e = red
+-- f = black
+
+{
+  {
+
+    {
+      "     ",
+      "00000",
+      "eeeee",
+    },
+
+    {
+      "     ",
+      "00000",
+      "ee7ee",
+    },
+
+    { 
+      "     ",
+      "00000",
+      "eeeee",
+    },
+
+
+    
+  },
+  version = "1.0.0",
+  animation = false,
+  title = "App",
+  description = "App Icon",
+  author = "Soup",
+  date = "",
+}

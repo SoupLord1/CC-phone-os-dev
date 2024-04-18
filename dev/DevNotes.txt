@@ -1,0 +1,3 @@
+-- CraftOS and actual computers have to use different sha2 libraries
+-- DO NOT SEND UPDATES OF SHA2
+
