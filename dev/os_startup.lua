@@ -6,6 +6,14 @@ end
 
 local main = basalt.createFrame()
 
+local device_type = "desktop"
+local device_width, device_height = term.getSize()
+
+if device_width == 26 then
+    device_type = "mobile"
+end
+
+basalt.debug("Device: "..device_type)
 
 -- LOCK SCREEN
 
